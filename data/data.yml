@@ -1,0 +1,7 @@
+test_01 :
+    case01 :
+      name : username
+      password : password
+    case02 :
+      name : 1810101
+      password : LLLDDDS
